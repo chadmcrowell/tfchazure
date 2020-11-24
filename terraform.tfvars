@@ -1,5 +1,0 @@
-subscription_id = "6621d406-97fa-4ad3-9ecf-8c94cda87543"
-client_id = "1c4ca566-a633-4853-85b9-ba20bf4fc12a"
-client_secret = "r~Xm2HjCpNmfuNn4lmaUk_2POwRG1Al5Yh"
-tenant_id = "489b2c50-5c1b-47ec-9a48-25c8d78613cd"
-location = "southcentralus"
