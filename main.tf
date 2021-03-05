@@ -11,8 +11,3 @@ terraform {
     key                  = "terraform.tfstate"
   }
 }
-
-resource "azurerm_resource_group" "resource_gp" {
-  name     = "app-rg"
-  location = "southcentralus"
-}
